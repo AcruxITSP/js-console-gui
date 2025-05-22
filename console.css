@@ -1,0 +1,13 @@
+#console
+{
+    background-color: black;
+    color: white;
+    font-family: monospace;
+    padding: 1rem;
+}
+
+#console > p
+{
+    margin: 0;
+    padding: 0;
+}
